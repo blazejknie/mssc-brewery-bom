@@ -11,7 +11,7 @@
 
     <groupId>io.github.blazejknie</groupId>
     <artifactId>mssc-brewery-bom</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <name>mssc-brewery-bom</name>
 
     <licenses>
@@ -147,7 +147,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/blazejknie/mssc-brewery-bom.git</developerConnection>
         <url>https://github.com/blazejknie/mssc-brewery-bom</url>
-        <tag>mssc-brewery-bom-1.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>

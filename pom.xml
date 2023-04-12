@@ -161,6 +161,29 @@
         </snapshotRepository>
     </distributionManagement>
 
+    <repositories>
+        <repository>
+            <id>packagecloud.snapshot</id>
+            <url>https://packagecloud.io/blazej/snapshot/maven2</url>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+            <releases>
+                <enabled>false</enabled>
+            </releases>
+        </repository>
+        <repository>
+            <id>packagecloud.release</id>
+            <url>https://packagecloud.io/blazej/release/maven2</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+        </repository>
+    </repositories>
+
     <build>
         <extensions>
             <extension>

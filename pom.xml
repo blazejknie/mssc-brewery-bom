@@ -147,8 +147,8 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com/blazejknie/maven-release-plugin.git</developerConnection>
-        <url>https://github.com/blazejknie/maven-release-plugin</url>
+        <developerConnection>scm:git:ssh://git@github.com:blazejknie/mssc-brewery-bom.git</developerConnection>
+        <url>https://github.com/blazejknie/mssc-brewery-bom</url>
         <tag>HEAD</tag>
     </scm>
 

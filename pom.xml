@@ -39,6 +39,7 @@
         <mapstruct.version>1.5.3.Final</mapstruct.version>
         <asciidoctor-maven-plugin.version>2.2.2</asciidoctor-maven-plugin.version>
         <snippetsDirectory>${project.build.directory}/generated-snippets</snippetsDirectory>
+        <project.scm.id>github</project.scm.id>
     </properties>
 
     <packaging>pom</packaging>

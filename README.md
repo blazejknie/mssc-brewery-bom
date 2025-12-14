@@ -1,4 +1,9 @@
+## 📦 mssc-brewery-bom
 
-# MSSC Brewery Bom
+# 📦 Brewery BOM
 
-Spring Boot Microservice example
+Bill of Materials ensuring **dependency version consistency**.
+
+## Responsibilities
+- Define dependency versions
+- Simplify Maven dependency management
